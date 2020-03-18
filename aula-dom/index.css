@@ -1,0 +1,5 @@
+.container {
+    color: blue;
+    display:flex;
+    justify-content: space-evenly;
+}
